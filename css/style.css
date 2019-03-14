@@ -118,12 +118,7 @@ iframe {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
-  margin: 0 0 10px;
-}
-
-.border_right {
-  border-right: 1px dotted #ccc;
-  padding-right: 20px;
+  margin: 10px 0 10px;
 }
 
 .thumbs_up {
